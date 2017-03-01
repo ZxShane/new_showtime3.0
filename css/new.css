@@ -1,0 +1,57 @@
+
+.headbg{
+	background-color: #1E90FF;
+	color: white;
+	text-align: center;
+}
+.wateryu{
+	background-color: #4169E1;
+	border-color: white;
+	border-style: solid;
+	border-width: thick;
+
+
+}
+.floatright{
+    float: right;
+}
+
+.time
+{
+	text-align: center;
+}
+/*image{
+    
+
+	float: left;
+}*/
+#name
+{
+	color: white; 
+}
+.waterhui{
+	background-color: #1E90FF;
+	border-color: white;
+	border-style: solid;
+	border-width: thick;
+
+}
+
+.floatleft
+{
+	float: left;
+}
+.picture
+{
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+#position{
+	padding-top: 0;
+	text-align: center;
+	color: white;
+}
+#kuang{
+	text-align: right;
+}
